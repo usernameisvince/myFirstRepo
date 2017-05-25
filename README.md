@@ -1,5 +1,5 @@
 # myFirstRepo
-This is my first repository
+This is my first repository. It's used for testing, learning how to use GIT, GitHub, and messing around with terminal.
 
 
 Objectives:
